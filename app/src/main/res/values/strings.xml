@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Screen Timeout</string>
+    <string name="label" translatable="true">Screen timeout</string>
+    <string name="screen_timeout_30_minutes" translatable="true">30 minutes</string>
+    <string name="screen_timeout_30_seconds" translatable="true">30 seconds</string>
+    <string name="message_grant_permission" translatable="true">This application needs permission to change system settings, in order to set the screen timeout.</string>
+    <string name="message_all_ready" translatable="true">All ready! To add the screen timeout tile:
+    \n \u2022 Open the quick settings panel
+    \n \u2022 Click on the edit button
+    \n \u2022 Drag the tile to the top section</string>
+    <string name="message_hide_launcher" translatable="true">You can remove the app icon from the launcher. It may require a restart to disappear.</string>
+    <string name="button_grant_permission" translatable="true">Grant Permission</string>
+    <string name="button_hide_launcher" translatable="true">Hide Launcher Icon</string>
+</resources>
